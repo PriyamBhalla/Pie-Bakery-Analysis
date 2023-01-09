@@ -19,4 +19,20 @@ The filter pane is as follows:
 
 Here we can apply filters on the data and data can reflect according to it and if we want we can clear filter also with the help of clear filters button.
 
+The conclusions which we can generate from the above data are as follows:
+
+The apple flavor pie generates the highest Revenue.
+
+There is a total of 7 flavors sold.
+
+The average order is 35$.
+
+76% of the pies which are sold are organic.
+
+Most Revenue is generated in the month of April.
+
+Most flavors sold on weekends are Strawberry and Apple.
+
+Saturday is the day when most of the pies are sold.
+
 Thank You.
